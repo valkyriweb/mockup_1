@@ -768,6 +768,9 @@ fieldset[disabled] .btn-default.active {
   color: #bdc3c7;
   background-color: #ffffff;
 }
+/*.btn-nu {
+  .button-variant(@btn-default-color,)
+} */
 .btn-primary {
   color: #ffffff;
   background-color: #ff494e;
